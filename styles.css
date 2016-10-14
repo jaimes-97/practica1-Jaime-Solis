@@ -1,0 +1,150 @@
+*{
+margin:0px;
+padding:0px;
+
+
+}
+
+
+
+
+a{
+    
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    color:white;
+    
+}
+
+
+
+
+
+#contenedor{
+    width:800px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+#cabecera{
+    background-color: grey;
+    height:30px;
+    width:1300px;
+    margin-bottom: 10px;
+    
+}
+
+
+#entrada{
+ color:white;
+           height:25px;
+           width:100px;
+          
+           margin:0px;
+           padding:5px;
+           border:2px solid black;
+          display:inline;    
+    
+
+}
+
+#entrada:hover{
+    
+    opacity: 0.5;
+    
+}
+
+#contenido{
+    background-color: white;
+    padding: 5px;
+    border:1px solid grey;
+    border-radius: 10px;
+    opacity: 0.5;
+    height: 500px;
+    color:black;
+   font-weight: bold;
+    
+}
+
+#content-galery{
+    
+   background-color: white;
+    padding: 5px;
+    border:1px solid grey;
+    border-radius: 10px;
+    opacity: 0.5;
+    height: 1500px;
+    color:black;
+   font-weight: bold; 
+}
+
+#Menu{
+   background-color: grey;
+    border:1px solid grey;
+    border-radius: 10px;
+    height: 250px;
+   width: 200px;
+   color:black;
+   font-weight: bold;
+   float:right;
+  
+    margin-left: 25px;
+    margin-right: 35px;
+    margin-top: 45px;
+}
+#hMenu{
+    height: 25px;
+     width: 197px;
+     background-color: black;
+     color:white;
+     border:2px solid white ;
+     text-align: center;
+    
+}
+
+#imghead{
+    
+ height:85px;
+    width:800px;
+    display:inline
+}
+
+
+
+li{
+   
+    margin-left: 15px;
+    
+}
+
+
+table, th, td {
+   border: 1px solid black;
+}
+
+
+.Frase{
+    font-family: monospace;
+    font-size: 25px;
+    color:white;
+    margin-left: 100px;
+    
+    
+    
+    display:inline;
+    
+}
+
+.galery{
+    height: 300px;
+    width:600px;
+    margin-left: 12%;
+    margin-right:80%;
+
+}
